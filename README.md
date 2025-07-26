@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Jennifer Tesore 👩‍💻✨
 
-<!--
-**Jennifer8970/Jennifer8970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tester de software recientemente graduada y desarrolladora web en formación.
 
-Here are some ideas to get you started:
+### 🔍 QA & Testing
+- Test cases escritos para formularios web
+- Automatización con Selenium y Python
+- Reportes de bugs y documentación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Desarrollo Web
+- HTML, CSS, JavaScript, Bootstrap
+- Sitios web educativos y responsivos
+- Diseño accesible y centrado en el usuario
+
+👉 Visitá mis proyectos más recientes acá abajo 👇
